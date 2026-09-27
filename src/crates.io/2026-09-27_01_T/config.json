@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "enabled": true,
+      "host_pattern": "crates.io",
+      "id": "cwp_1782588395704366153",
+      "name": "Crates.io",
+      "priority": 0,
+      "scope": "global",
+      "selectors": [
+        {
+          "declarations": "width: 1460px;",
+          "selector": ".width-limit"
+        }
+      ]
+    }
+  ]
+}
