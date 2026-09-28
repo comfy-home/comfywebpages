@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "metadata": {
+    "pack_id": "crates.io/2026-09-28_01_dev",
+    "name": "Crates.io",
+    "author": "dev",
+    "version": "0.1.0",
+    "created_at": "2026-09-28",
+    "license": "",
+    "source_url": ""
+  },
+  "rules": [
+    {
+      "enabled": true,
+      "host_pattern": "crates.io",
+      "id": "cwp_1782588395704366153",
+      "name": "Crates.io",
+      "priority": 0,
+      "scope": "global",
+      "selectors": [
+        {
+          "declarations": "width: 1460px;",
+          "selector": ".width-limit"
+        },
+        {
+          "declarations": "max-width: 100%;",
+          "selector": "div.inner-main.width-limit"
+        }
+      ]
+    }
+  ]
+}

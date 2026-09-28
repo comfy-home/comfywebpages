@@ -5,5 +5,16 @@
     "author": "",
     "description": "Community-curated ComfyWebPages rulesets"
   },
-  "packs": []
+  "packs": [
+    {
+      "id": "crates.io/2026-09-28_01_dev",
+      "name": "Crates.io",
+      "author": "dev",
+      "description": "Enhanced display on bigger (especially wider) monitors.\nEnjoy!",
+      "version": "0.1.0",
+      "url": "packs/crates.io/2026-09-28_01_dev.json",
+      "updated_at": "2026-09-28",
+      "kind": ""
+    }
+  ]
 }
